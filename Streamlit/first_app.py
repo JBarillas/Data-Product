@@ -10,7 +10,7 @@ If you’re using Python 3, you can also write to your app without calling any S
 
 st.markdown(
     """
-    ### Learning Streamlit, see the code on my github [here]()
+    ### Learning Streamlit, see the code on my github [here](https://github.com/JBarillas/Data-Product/edit/master/Streamlit/first_app.py)
     """
 )
 
@@ -70,7 +70,7 @@ add_slider = st.sidebar.slider(
 
 st.markdown(
     """
-    ## Exercise Uber Pickups [here]()
+    ## Exercise Uber Pickups [here](https://github.com/JBarillas/Data-Product/edit/master/Streamlit/uber_pickups.py)
     """
 )
 
